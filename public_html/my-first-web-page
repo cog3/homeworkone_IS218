@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>HTML</title>
+		<meta name="author" content="Christian" />
+		<!-- Date: 2017-09-27 -->
+	</head>
+	<body>
+		<h1>Hello World!</h1>
+		<p>
+			My name is Christian Gomez and I am a student at NJIT
+		</p>
+		<h3> Things I like To Do</h3>
+		<ul>
+			<li>
+				Weight Train
+			</li>
+			<li>
+				Meditate
+			</li>
+			<li>
+				Go on Hikes
+			</li>
+			<li>
+				Spend time with family and friends
+			</li>
+			<li>
+				And Live :)
+			</li>
+		</ul>
+		<h2>POLAR BEARS!!!</h2>
+		<img src="Bears.jpg"> </img>
+
+	</body>
+</html>
+
